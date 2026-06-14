@@ -28,8 +28,7 @@ The E-Commerce Sales Dashboard is an interactive Business Intelligence project d
 
 ## Dashboard Overview
 ### Executive Overview
-![Executive Overview](<img width="1437" height="802" alt="Screenshot 2026-06-09 181014" src="https://github.com/user-attachments/assets/ce09c4e7-5805-48b7-afa4-98a0e3714a70" />
-)
+![Executive Overview](<img width="1437" height="802" alt="Screenshot 2026-06-09 181014" src="https://github.com/user-attachments/assets/ce09c4e7-5805-48b7-afa4-98a0e3714a70" />)
 
 
 ### Executive Overview
