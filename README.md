@@ -11,14 +11,14 @@ The E-Commerce Sales Dashboard is an interactive Business Intelligence project d
 - Monitor monthly sales trends.
 - Support data-driven decision-making.
 
-## Tools & Technologies Used
+## 🛠️Tools & Technologies Used
 - Power BI
 - Microsoft Excel
 - Power Query
 - DAX
 - Data Modeling
 
-## Dashboard KPIs
+## 📊Dashboard KPIs
 - YTD Sales: $11.53M
 - YTD Profit: $1M
 - YTD Quantity: 107.2K
@@ -39,26 +39,26 @@ The E-Commerce Sales Dashboard is an interactive Business Intelligence project d
 <h3>🛒 Customer Analysis</h3>
 <img src="Screenshot 2026-06-09 181218.png" width="900">
 
-### Executive Overview
+### 📈 Executive Overview
 - Monthly Sales Trend
 - Sales by Category
 - Sales by State
 - Profit by Segment
 - Sales by Shipping Type
 
-### Customer & Region Analysis
+### 👥 Customer & Region Analysis
 - Customer Analysis
 - Region-wise Sales
 - State-wise Sales
 - Customer Segment Analysis
 
-### Product & Profit Analysis
+### 📦 Product & Profit Analysis
 - Top Products by Sales
 - Category-wise Profit
 - Sales vs Profit Analysis
 - Loss-Making Products Analysis
 
-## Key Insights
+## 🔍Key Insights
 1. Office Supplies generated the highest profit.
 2. Consumer Segment contributed the highest sales.
 3. Standard Class Shipping accounted for the majority of orders.
