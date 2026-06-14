@@ -1,9 +1,9 @@
-# E-Commerce Sales Dashboard (Power BI)
+#  📊 E-Commerce Sales Dashboard (Power BI)
 
-## Introduction
+##  📌 Introduction
 The E-Commerce Sales Dashboard is an interactive Business Intelligence project developed using Power BI to analyze and visualize e-commerce sales data. The dashboard provides valuable insights into sales performance, profit trends, customer behavior, product performance, and regional sales distribution.
 
-## Project Objectives
+##  🎯 Project Objectives
 - Analyze overall sales and profit performance.
 - Identify top-selling products and categories.
 - Understand customer purchasing behavior.
