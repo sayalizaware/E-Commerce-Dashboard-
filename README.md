@@ -26,10 +26,20 @@ The E-Commerce Sales Dashboard is an interactive Business Intelligence project d
 - Total Customers: 42K
 - Total Orders: 42K
 
-## Dashboard Overview
-### Executive Overview
-![Executive Overview](<img width="1437" height="802" src="Screenshot 2026-06-09 181218.png" />)
+##Dashboard 
+<h2>📸 Dashboard Screenshots</h2>
 
+<h3>📊 Dashboard Overview</h3>
+<img src="screenshots/Screenshot%202026-06-09%20181014.png" width="900">
+
+<h3>💰 Sales Analysis</h3>
+<img src="screenshots/Screenshot%202026-06-09%20181128.png" width="900">
+
+<h3>📈 Profit Analysis</h3>
+<img src="screenshots/Screenshot%202026-06-09%20181158.png" width="900">
+
+<h3>🛒 Customer Analysis</h3>
+<img src="screenshots/Screenshot%202026-06-09%20181218.png" width="900">
 
 ### Executive Overview
 - Monthly Sales Trend
